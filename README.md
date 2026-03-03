@@ -39,7 +39,7 @@ I build decentralised systems — and intentionally vulnerable applications — 
 
 <td width="45%" align="center" valign="top">
 
-<img src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png" width="320"/>
+<img src="https://github.com/Waroo04/Waroo04/blob/main/Img.png" width="320"/>
 
 </td>
 
