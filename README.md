@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swaroop+Supal!;" />
 </h1>
-<img align="right" alt="developer" width="400" src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png">
+<img align="right" alt="developer" width="400" src="https://github.com/Waroo04/Waroo04/blob/main/Img.png">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Waroo04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
