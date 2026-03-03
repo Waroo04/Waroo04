@@ -7,39 +7,39 @@
 
 ## 💫 About Me
 
-🔭 **I’m currently working on**  
-A Web3-based Decentralised Freelancing Platform where clients and freelancers interact through smart contracts, along with security-focused Android APKs for CTF challenges and AI-powered phishing detection systems.
+### 🔭 Currently Building
+A **Web3-based Decentralised Freelancing Platform** enabling clients and freelancers to interact securely through smart contracts — alongside **security-focused Android APKs for CTF challenges** and **AI-powered phishing detection systems**.
 
-<br>
+---
 
-👯 **I’m looking to collaborate on**  
-Blockchain-powered platforms, secure smart contract development, cybersecurity research, and real-world decentralised applications (dApps).
+### 👯 Open to Collaborate On
+Blockchain-powered platforms, secure smart contract engineering, cybersecurity research, and production-ready decentralised applications (dApps).
 
-<br>
+---
 
-🤝 **I’m looking for help with**  
-Smart contract auditing, gas optimization, secure Web3 architecture design, and advanced mobile application security testing.
+### 🤝 Seeking Expertise In
+Smart contract auditing, gas optimization strategies, hardened Web3 architecture design, and advanced mobile application security testing.
 
-<br>
+---
 
-🌱 **I’m currently learning**  
-Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend architecture.
+### 🌱 Currently Exploring
+Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend system architecture.
 
-<br>
+---
 
-💬 **Ask me about**  
-Web3 freelancing platforms, Solidity development, Android vulnerabilities for CTFs, phishing detection logic, Firebase security, and full-stack TypeScript development.
+### 💬 Let’s Talk About
+Web3 freelancing systems, Solidity development, Android CTF vulnerabilities, phishing detection logic, Firebase security configurations, and full-stack TypeScript ecosystems.
 
-<br>
+---
 
-⚡ **Fun fact**  
-I build decentralised systems and intentionally vulnerable apps — because understanding how systems break is the fastest way to build them securely.
+### ⚡ Engineering Philosophy
+I build decentralised systems — and intentionally vulnerable applications — because mastering how systems break is the fastest way to build them securely.
 
 </td>
 
 <td width="45%" align="center" valign="top">
 
-<img src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png" width="300"/>
+<img src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png" width="320"/>
 
 </td>
 
