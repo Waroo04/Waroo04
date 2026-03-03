@@ -1,36 +1,52 @@
-<table>
-<tr>
-<td width="60%">
+<br>
 
-# 💫 About Me
+<table width="100%">
+<tr>
+
+<td width="55%" valign="top">
+
+## 💫 About Me
 
 🔭 **I’m currently working on**  
 A Web3-based Decentralised Freelancing Platform where clients and freelancers interact through smart contracts, along with security-focused Android APKs for CTF challenges and AI-powered phishing detection systems.
 
+<br>
+
 👯 **I’m looking to collaborate on**  
 Blockchain-powered platforms, secure smart contract development, cybersecurity research, and real-world decentralised applications (dApps).
 
+<br>
+
 🤝 **I’m looking for help with**  
-Smart contract auditing, gas optimisation, secure Web3 architecture design, and advanced mobile application security testing.
+Smart contract auditing, gas optimization, secure Web3 architecture design, and advanced mobile application security testing.
+
+<br>
 
 🌱 **I’m currently learning**  
 Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend architecture.
 
+<br>
+
 💬 **Ask me about**  
 Web3 freelancing platforms, Solidity development, Android vulnerabilities for CTFs, phishing detection logic, Firebase security, and full-stack TypeScript development.
+
+<br>
 
 ⚡ **Fun fact**  
 I build decentralised systems and intentionally vulnerable apps — because understanding how systems break is the fastest way to build them securely.
 
 </td>
 
-<td width="40%" align="center">
+<td width="45%" align="center" valign="top">
 
-<img src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png" width="250" style="border-radius:15px;" />
+<img src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png" width="300"/>
 
 </td>
+
 </tr>
 </table>
+
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swaroop__supal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaroop-supal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swaroopsupal05@gmail.com) 
