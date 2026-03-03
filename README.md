@@ -1,56 +1,26 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swaroop+Supal!;" />
 </h1>
-<br>
+<img align="right" alt="developer" width="400" src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png">
 
-<table width="100%">
-<tr>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Waroo04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
 
-<td width="55%" valign="top">
+- 🔭 **Currently Building:**  
+  A Web3-based Decentralised Freelancing Platform powered by smart contracts, along with security-focused Android APKs for CTF challenges and AI-driven phishing detection systems.
 
-## 💫 About Me
+- 🌱 **Currently Learning:**  
+  Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend architecture.
 
-### 🔭 Currently Building
-A **Web3-based Decentralised Freelancing Platform** enabling clients and freelancers to interact securely through smart contracts — alongside **security-focused Android APKs for CTF challenges** and **AI-powered phishing detection systems**.
+- 🤝 **Looking to Collaborate On:**  
+  Blockchain-powered platforms, secure smart contract engineering, cybersecurity research, and production-grade decentralised applications.
 
----
+- 💬 **Ask Me About:**  
+  Solidity development, Web3 architecture, Android vulnerability design for CTFs, phishing detection logic, Firebase security, and full-stack TypeScript systems.
 
-### 👯 Open to Collaborate On
-Blockchain-powered platforms, secure smart contract engineering, cybersecurity research, and production-ready decentralised applications (dApps).
-
----
-
-### 🤝 Seeking Expertise In
-Smart contract auditing, gas optimization strategies, hardened Web3 architecture design, and advanced mobile application security testing.
-
----
-
-### 🌱 Currently Exploring
-Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend system architecture.
-
----
-
-### 💬 Let’s Talk About
-Web3 freelancing systems, Solidity development, Android CTF vulnerabilities, phishing detection logic, Firebase security configurations, and full-stack TypeScript ecosystems.
-
----
-
-### ⚡ Engineering Philosophy
-I build decentralised systems — and intentionally vulnerable applications — because mastering how systems break is the fastest way to build them securely.
-
-</td>
-
-<td width="45%" align="center" valign="top">
-
-<img src="https://github.com/Waroo04/Waroo04/blob/main/Img.png" width="320"/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
+- ⚡ **Engineering Approach:**  
+  I build decentralised systems and intentionally vulnerable applications — because mastering how systems break is the fastest way to build them securely.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swaroop__supal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaroop-supal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swaroopsupal05@gmail.com) 
 
