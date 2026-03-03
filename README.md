@@ -1,6 +1,36 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A Web3-based Decentralised Freelancing Platform where clients and freelancers interact through smart contracts, along with security-focused Android APKs for CTF challenges and AI-powered phishing detection systems.<br><br>👯 I’m looking to collaborate on<br>Blockchain-powered platforms, secure smart contract development, cybersecurity research, and real-world decentralised applications (dApps).<br><br>🤝 I’m looking for help with<br>Smart contract auditing, gas optimization, secure Web3 architecture design, and advanced mobile application security testing.<br><br>🌱 I’m currently learning<br>Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend architecture.<br><br>💬 Ask me about<br>Web3 freelancing platforms, Solidity development, Android vulnerabilities for CTFs, phishing detection logic, Firebase security, and full-stack TypeScript development.<br><br>⚡ Fun fact<br>I build decentralised systems and intentionally vulnerable apps — because understanding how systems break is the fastest way to build them securely.
+<table>
+<tr>
+<td width="60%">
 
+# 💫 About Me
+
+🔭 **I’m currently working on**  
+A Web3-based Decentralised Freelancing Platform where clients and freelancers interact through smart contracts, along with security-focused Android APKs for CTF challenges and AI-powered phishing detection systems.
+
+👯 **I’m looking to collaborate on**  
+Blockchain-powered platforms, secure smart contract development, cybersecurity research, and real-world decentralised applications (dApps).
+
+🤝 **I’m looking for help with**  
+Smart contract auditing, gas optimisation, secure Web3 architecture design, and advanced mobile application security testing.
+
+🌱 **I’m currently learning**  
+Smart contract security patterns, Web3 authentication flows, exploit development, IoT security hardening, and scalable backend architecture.
+
+💬 **Ask me about**  
+Web3 freelancing platforms, Solidity development, Android vulnerabilities for CTFs, phishing detection logic, Firebase security, and full-stack TypeScript development.
+
+⚡ **Fun fact**  
+I build decentralised systems and intentionally vulnerable apps — because understanding how systems break is the fastest way to build them securely.
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="IMAGE_LINK_HERE" width="250" style="border-radius:15px;" />
+
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swaroop__supal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swaroop-supal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swaroopsupal05@gmail.com) 
