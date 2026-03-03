@@ -26,7 +26,7 @@ I build decentralised systems and intentionally vulnerable apps — because unde
 
 <td width="40%" align="center">
 
-<img src="IMAGE_LINK_HERE" width="250" style="border-radius:15px;" />
+<img src="https://github.com/Waroo04/Waroo04/blob/main/Gemini_Generated_Image_7ueu737ueu737ueu.png" width="250" style="border-radius:15px;" />
 
 </td>
 </tr>
