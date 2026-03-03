@@ -3,8 +3,7 @@
 </h1>
 <img align="right" alt="developer" width="400" src="https://github.com/Waroo04/Waroo04/blob/main/Img.png">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Waroo04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> 
+<p align="left">  
 </p>
 
 - 🔭 **Currently Building:**  
